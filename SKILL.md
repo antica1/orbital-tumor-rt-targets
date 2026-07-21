@@ -966,3 +966,31 @@ The past 5 years have seen ultra-low-dose RT (4 Gy/2fx) move from an experimenta
 ---
 
 *This clinical framework was developed through the clinical experience of the Department of Radiation Oncology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine. It is intended for educational and clinical reference purposes.*
+
+
+---
+
+## 附：靶区规划摘要（可复制粘贴入首次病程录）
+
+> 治疗前写入住院病史"诊疗计划"。眼眶特有：眼附器、眼前庭共管、VIII/IX 过站。
+
+```
+═══════════════════════════════
+  放疗靶区规划
+═══════════════════════════════
+诊断：______  pT__N__M__
+手术：______
+PORT 指征：______（切缘近 / PNI+ / 高级别）
+
+方案：□ 术后 PORT  □ 根治性 RT   ___ Gy / ___ fx
+
+CTV___：______（肿瘤床 / 全间室）
+CTV___：______（预防区）
+眶尖：□ 纳入 ___ Gy（门—预防量砌墙）
+海绵窦：□ 纳入 ___ Gy（隔壁—如门已被破）
+VIII/IX 过站：□ 纳入  □ 不照
+豁免：______
+
+主治：______  日期：______
+═══════════════════════════════
+```
