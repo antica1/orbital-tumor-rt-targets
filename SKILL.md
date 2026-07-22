@@ -1,6 +1,6 @@
 ---
 name: orbital-tumor-rt-targets
-description: "Radiotherapy target volume delineation and dose constraints for orbital tumors — lymphoma, solid malignancies, and benign entities — emphasizing OAR protection in the orbit's confined anatomy."
+description: "眼眶肿瘤放疗靶区勾画——间室放疗(门+隔壁比喻)、眼前庭共管。Orbital RT — compartment irradiation, lacrimal apparatus, orbital apex."
 version: 1.0.0
 author: Zhu Guopei / Shanghai Ninth People's Hospital
 license: MIT
