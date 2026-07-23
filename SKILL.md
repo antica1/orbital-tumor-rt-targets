@@ -8,6 +8,7 @@ metadata:
   hermes:
     tags: [head-neck, radiotherapy, orbital, eye, lymphoma, SBRT]
     triggers_on: [眼眶, 眶内, 眼肿瘤, 眼MALT, 眼淋巴瘤, 泪腺, 视神经, 眼黑色素瘤, 睑板腺癌, 视网膜母细胞瘤, 葡萄膜, 4Gy/2fx, 眼前庭, 间室放疗, 眶尖, 眼球, 角膜, 结膜, 泪囊, 鼻泪管, orbital, lacrimal, uveal, retinoblastoma, MALT, 眼眶放疗, 眼眶靶区, 眼眶靶区勾画]
+    related_skills: [adenoid-cystic-carcinoma-rt-targets, reirradiation-plan-recommend, npc-rt-target-delineation, head-neck-dvh-plan-review]
 
 ---
 
